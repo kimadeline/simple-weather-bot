@@ -17,9 +17,9 @@ from dotenv import load_dotenv
 URL = "https://api.openweathermap.org/data/2.5/weather"
 ENV_KEY = "OWM_API_KEY"
 
-load_dotenv()
+load_dotenv(".env")
 
-OMW_API_KEY = os.getenv(ENV_KEY)
+OWM_API_KEY = os.getenv(ENV_KEY)
 
 
 class MyBot(ActivityHandler):
