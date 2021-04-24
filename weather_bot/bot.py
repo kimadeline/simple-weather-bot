@@ -50,6 +50,6 @@ class MyBot(ActivityHandler):
         """
         async with aiohttp.ClientSession() as session:
             async with session.get(
-                URL, params={"q": city, "appid": OMW_API_KEY}
+                URL, params={"q": city, "appid": OWM_API_KEY}
             ) as resp:
                 return await resp.json()
