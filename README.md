@@ -24,8 +24,7 @@ Pictures/gifs would be nice.
 
 ## Deployment
 
-These steps will deploy the bot to a new resource group. If you want to deploy to an existing resource group, refer to the [documentation]
-(https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-deploy-basic-bot?view=azure-bot-service-4.0&tabs=python#deploy-via-arm-template-with-existing-resource-group).
+These steps will deploy the bot to a new resource group. If you want to deploy to an existing resource group, refer to the [documentation](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-deploy-basic-bot?view=azure-bot-service-4.0&tabs=python#deploy-via-arm-template-with-existing-resource-group).
 
 ### Local steps
 
