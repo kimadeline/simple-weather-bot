@@ -392,3 +392,4 @@ zsdoc/data
 # End of https://www.toptal.com/developers/gitignore/api/python,vscode,macos,zsh,windows,vim,powershell,linux,pycharm
 
 todo.md
+**/.env
