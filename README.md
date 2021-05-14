@@ -2,7 +2,7 @@
 
 Let's test the Python version of the Bot Framework SDK by building a simple bot that returns a short weather description whenever you enter a city. Additional steps include Azure deployment and Slack integration.
 
-📺 A video-version of the tutorial can be found at <TBD>
+📺 A video-version of this tutorial can be found on [YouTube](https://www.youtube.com/watch?v=__ian1SZm78&list=PLlrxD0HtieHhQHeS5fjSHcdMeDTBRpVrU&index=5).
 
 ## Development
 
